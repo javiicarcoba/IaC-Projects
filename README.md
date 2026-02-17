@@ -1,2 +1,2 @@
 # IaC-Projects
-Here I'll be pushing Terraform and Bicep templates with automation scripts for deploy and configure infrastructure
+Here I'll be pushing Terraform and Bicep templates for deploy and configure infrastructure
